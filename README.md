@@ -3,7 +3,7 @@
 Aplicativo Flutter com cadastro e login de usuários, construído por etapas.
 A autenticação segue o modelo do **Firebase Auth (e-mail e senha)**; por enquanto os dados ficam no aparelho com **SharedPreferences**.
 
-**Dupla:** _Nome 1_ (@usuario1) · _Nome 2_ (@usuario2)
+**Aluno:** Paulo Ricardo de Almeida — RA 60003496
 
 📄 Requisitos e histórias de usuário: [Wiki do projeto](../../wiki/Historias-de-Usuario)
 
@@ -71,12 +71,12 @@ test/                          # testes do serviço, validações e fluxo de tel
 ▶️ _link do YouTube (não listado)_
 
 ### Declaração de uso de IA
-> _Preencham com as palavras de vocês. Exemplo de estrutura:_
+> _Preencha com as suas palavras. Exemplo de estrutura:_
 >
-> - **Usamos IA?** Sim / Não.
+> - **Usei IA?** Sim / Não.
 > - **Para quê?** …
 > - **O que ela sugeriu?** …
-> - **O que alteramos ou aprendemos?** …
+> - **O que alterei ou aprendi?** …
 
 ---
 
@@ -101,7 +101,7 @@ test/                          # testes do serviço, validações e fluxo de tel
 ▶️ _link do YouTube (não listado)_
 
 ### Declaração de uso de IA
-> - **Usamos IA?** …
+> - **Usei IA?** …
 > - **Para quê?** …
 > - **O que ela sugeriu?** …
-> - **O que alteramos ou aprendemos?** …
+> - **O que alterei ou aprendi?** …
